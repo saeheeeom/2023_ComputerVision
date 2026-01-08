@@ -12,7 +12,7 @@ This project detects Korean license plates and reads their characters using a tw
 2. **Optical Character Recognition (OCR)**: Read characters from cropped plates
 
 ## Pipeline
-![Pipeline Summary Image](Korean Car Plate Recognition.png)
+![Pipeline Summary Image](korean_car_plate_recognition.png)
 ```
 Input Image
    ↓
