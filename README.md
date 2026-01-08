@@ -60,7 +60,7 @@ License Plate Number
 
   - Example: `361머2301.png`
 
-  - <p align="center">   <img src="361머2301.png" alt="Preprocessing example for license plate OCR" width="700"> </p>
+  - ![Preprocessing Example](361머2301_preprocessed.png)
 
     
 
